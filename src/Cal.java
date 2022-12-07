@@ -140,7 +140,7 @@ public class Cal {
         int day;
         day = weekDayno(d, m, y);
         return weekdays[day];
-    }*/
+    }*
 
 
 }
