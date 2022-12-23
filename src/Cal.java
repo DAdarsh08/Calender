@@ -7,8 +7,8 @@ public class Cal {
 
     public static void main(String[] args) {
 
-        int noofdays = Daysinmonth(12, 2022);
-        int weekdays = weekDayno(1, 12, 2022);
+        int noofdays = Daysinmonth(9, 1991);
+        int weekdays = weekDayno(1, 9, 1991);
         printCalender(noofdays, weekdays);
 
 
